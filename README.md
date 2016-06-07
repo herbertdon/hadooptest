@@ -1,0 +1,2 @@
+# hadooptest
+hadoop test only
